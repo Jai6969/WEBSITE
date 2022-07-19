@@ -1,0 +1,31 @@
+h1{
+    color: #FF0033;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: #99FF66;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 27px;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #6087FF;
+}
+
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 27px;
+}
